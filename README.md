@@ -124,8 +124,3 @@ Manages emergency alerts and notifications.
 
 The Road Accident Detection and Automatic Emergency Response System is a smart and useful Android application that helps improve public safety by detecting accidents automatically and supporting emergency response actions. The project demonstrates the use of Android sensors, background services, and real-time monitoring in modern mobile application development.
 
----
-
-# Author
-
-Developed as an Android Studio academic project.
